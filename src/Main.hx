@@ -3,7 +3,6 @@ import com.haxepunk.HXP;
 
 class Main extends Engine
 {
-
 	override public function init()
 	{
 #if debug
